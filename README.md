@@ -1,2 +1,2 @@
 # hello-world
-Test GitHub features
+This is a test program that I'm using to test out GitHub's features.
